@@ -30,7 +30,3 @@ A Python-based calculator that computes the total price of items purchased, incl
 ## **Future Improvements**:
 - Adding a graphical user interface (GUI) using `Tkinter` or `PyQt`.
 - Integrating with a simple database to track and store purchase history.
-
----
-
-This concise and clear description is optimized for GitHub, with sections on features, technology, usage, and future improvements. The use of emojis adds a touch of personality to the repository!
