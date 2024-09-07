@@ -1,0 +1,6 @@
+--- Purchase Summary ---
+Item price: R6000.00
+Quantity: 10
+Total before tax: R60000.00
+Sales tax: R4800.00
+Total after tax: R64800.00
