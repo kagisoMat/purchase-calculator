@@ -6,12 +6,12 @@ A Python-based calculator that computes the total price of items purchased, incl
 - 🖥️ **Input Handling**: Allows users to input item prices and quantities, with validation to prevent errors.
 - 💸 **Sales Tax Calculation**: Automatically applies an 8% sales tax and computes the total cost.
 - 🧾 **Receipt Generation**: Option to save the purchase summary as a `receipt.txt` file.
-- 🔄 **Multiple Calculations**: Users can perform multiple transactions in a single session.
+- 🔄 **Multiple Calculations**: Users can perform multiple transactions in a session.
 - 🚫 **Error Handling**: Prevents invalid inputs and provides user-friendly error messages.
 
 ## **Technologies Used:**
 - **Python 3.x**
-- **PyCharm** (or any IDE of your choice)
+- **PyCharm**
 
 ## **How to Use:**
 1. Clone the repository:
